@@ -50,7 +50,6 @@ def translate_to_malay(text):
     prompt = f"""
 Translate the following post into Malay.
 Do not include any usernames, mentions, links, or Telegram source references.
-If the original post starts with 'JUST IN:' or '**JUST IN:**', please translate it as 'TERKINI:'.
 Write it as a casual, friendly FB caption in one paragraph — no heading, no explanation.
 Do not use slang or shouting. Keep it natural, chill, and neutral.
 
@@ -58,7 +57,7 @@ Do not use slang or shouting. Keep it natural, chill, and neutral.
 """
     try:
         res = requests.post(
-            f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}",
+            f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}",
             headers={"Content-Type": "application/json"},
             json={"contents": [{"parts": [{"text": prompt}]}]}
         )
@@ -154,7 +153,7 @@ async def main():
     media_group_ids_done = set()
     results = []
 
-    async for msg in client.iter_messages("WatcherGuru", limit=20):
+    async for msg in client.iter_messages("AItoolboxdaily", limit=20):
         original_text = (msg.text or "").strip()
 
         if not original_text or len(original_text.split()) < 3:
@@ -218,7 +217,7 @@ async def main():
             if os.path.exists(path):
                 os.remove(path)
 
-        time.sleep(1)
+        time.sleep(2)
 
     log_result(results)
     await client.disconnect()
