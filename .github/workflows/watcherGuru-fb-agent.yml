@@ -1,4 +1,4 @@
-name: WatcherGuru FB Poster
+name: Pengulas AI FB Poster
 
 on:
   workflow_dispatch:
