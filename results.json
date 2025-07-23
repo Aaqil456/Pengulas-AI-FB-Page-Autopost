@@ -173,5 +173,12 @@
     "translated_caption": "Eh, korang tau tak pasal Kiro ni? Dia macam editor kod AI yang boleh tolong tulis, uji, betulkan, dan dokumentasikan kod. Kiranya dia macam pembantu AI lah. Dibina berasaskan VS Code, siap ada chatbot pintar dan boleh uruskan tugas-tugas step-by-step lagi untuk si ejen AI tu. Memudahkan kerja!",
     "fb_status": "Posted",
     "date_posted": "2025-07-18 18:18:55"
+  },
+  {
+    "telegram_id": 127,
+    "original_text": "🗣️ Mistral just launched [Voxtral](https://mistral.ai/news/voxtral) — an open-source speech recognition model.\n\n⚡ It’s 2x cheaper than competitors, supports 32K token context, and can handle up to 40 minutes of audio.\nAvailable in two sizes: 3B (compact) and 24B (full-scale).\n\n👀 A real challenger to Whisper?",
+    "translated_caption": "Wah, Mistral baru je keluarkan Voxtral! Model pengecaman suara sumber terbuka. Dengar kata, lagi murah dua kali ganda dari pesaing lain, boleh proses konteks 32K token, dan tahan sampai 40 minit audio. Ada dua saiz pulak tu, 3B (kecik) dan 24B (besar). Macam boleh lawan Whisper ni!",
+    "fb_status": "Posted",
+    "date_posted": "2025-07-23 13:33:50"
   }
 ]
