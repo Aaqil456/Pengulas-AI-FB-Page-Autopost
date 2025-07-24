@@ -180,5 +180,12 @@
     "translated_caption": "Wah, Mistral baru je keluarkan Voxtral! Model pengecaman suara sumber terbuka. Dengar kata, lagi murah dua kali ganda dari pesaing lain, boleh proses konteks 32K token, dan tahan sampai 40 minit audio. Ada dua saiz pulak tu, 3B (kecik) dan 24B (besar). Macam boleh lawan Whisper ni!",
     "fb_status": "Posted",
     "date_posted": "2025-07-23 13:33:50"
+  },
+  {
+    "telegram_id": 128,
+    "original_text": "💻 Alibaba releases [Qwen3-Coder](https://qwenlm.github.io/blog/qwen3-coder/) — an open-source coding model.\n\n🧠 Supports 20+ programming languages and performs strongly on HumanEval and other benchmarks.\nReady to assist with real coding tasks right out of the box.\n\n👨‍💻 Another step in open-source AI vs. proprietary battle?",
+    "translated_caption": "Wah, Alibaba baru je keluarkan model pengekodan sumber terbuka, Qwen3-Coder! Hebat betul sebab boleh guna dengan lebih 20 bahasa pengaturcaraan dan nampaknya memang mantap kalau ikut ujian-ujian tertentu. Kiranya, memang dah sedia nak tolong buat kerja-kerja pengekodan betul-betul. Macam satu lagi langkah dalam dunia AI sumber terbuka lawan yang berbayar ni kan?",
+    "fb_status": "Posted",
+    "date_posted": "2025-07-24 17:14:33"
   }
 ]
