@@ -1027,5 +1027,12 @@
     "translated_caption": "Wah, senang betul nak buang latar belakang gambar sekarang! Guna AI je, dalam 5 saat dah siap. Ramai betul yang guna untuk buat gambar nampak lagi kemas dan profesional, sesuai sangat untuk bisnes online, design, dan macam-macam lagi. Memang terbaik!",
     "fb_status": "Posted",
     "date_posted": "2025-10-29 12:27:33"
+  },
+  {
+    "telegram_id": 252,
+    "original_text": "💊 **DeepSomatic: Google’s AI for Cancer Diagnostics**\n\nGoogle Research and the University of California[ have unveiled](https://research.google/blog/using-ai-to-identify-genetic-variants-in-tumors-with-deepsomatic/?utm_source=perplexity) DeepSomatic, an open-source deep learning model for detecting somatic mutations in tumors. The study was published in Nature Biotechnology.\n\nThe system significantly improves the accuracy of cancer gene variant detection for personalized treatment — reaching 90% accuracy on Illumina data and 80% on PacBio, outperforming traditional tools like MuTect2 and Strelka2. DeepSomatic works across all major sequencing platforms and even supports tumor-only samples, helping accelerate the development of targeted therapies.\n\n[🧠 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+    "translated_caption": "Wah, ada berita baik ni! Google ada buat model AI baru untuk bantu kesan mutasi dalam tumor. Model ni macam boleh tingkatkan ketepatan dalam mengenal pasti varian gen kanser, jadi rawatan boleh lebih tepat dan peribadi. Lebih kurang macam tu lah, teknologi makin canggih kan?",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-29 17:12:53"
   }
 ]
